@@ -7,6 +7,7 @@ def main():
     p.añade_ingrediente("AT")
     p.añade_ingrediente("PO")
     p.añade_ingrediente("MO")
+    p.añade_ingrediente("AC")
 
     p.quitar_ingrediente("PE")
     p.quitar_ingrediente("AT")
