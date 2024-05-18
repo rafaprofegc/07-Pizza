@@ -17,7 +17,7 @@ class Pizza():
                      "TE": ["Ternera", 2.25],
                      "AC": ["Aceitunas", 0.85],
                      "JA": ["Jamón", 3.05],
-                     "MO": ["Mozzarela", 2.20]
+                     "MO": ["Mozzarela", 2.35]
                    }
 
     # Inicializador
