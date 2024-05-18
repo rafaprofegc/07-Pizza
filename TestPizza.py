@@ -49,5 +49,7 @@ class TestPizza(unittest.TestCase):
         self.assertEqual(precio, 18.2)
 
         self.assertNotEqual(precio, 18)
+        
+        # Esto es un comentario
 if __name__ == '__main__':
     unittest.main()
